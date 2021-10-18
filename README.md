@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Rohan Doshi</h1>
-<h3>I'm a student currently pursuing a Bachelor's Degree in Computer Engineering from the Pune Institute of Computer Technology with a keen interest in App Development.I like to read business books, listen songs, play video games!</h3>
+<h3>I'm a student currently pursuing a Bachelor's Degree in Computer Engineering from the Pune Institute of Computer Technology with a keen interest in App Development. I like to read business books, listen songs, play video games!</h3>
 - ⚡ Fun fact <i><b>No great genius has ever existed without some touch of Madness </b></i> - Aristotle<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohandoshi21&label=Profile%20views&color=0e75b6&style=flat" alt="rohandoshi21" /> </p>
