@@ -41,8 +41,8 @@
 
 <p align="center">
 <div>
-<img height = "205" src="https://github-readme-stats.vercel.app/api?username=rohandoshi21&show_icons=true&theme=outrun" alt="rohandoshi21">
-<img height = "205" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandoshi21&show_icons=true&locale=en&layout=compact&theme=outrun" alt="rohandoshi21">
+<img height = "180" src="https://github-readme-stats.vercel.app/api?username=rohandoshi21&show_icons=true&theme=outrun" alt="rohandoshi21">
+<img height = "180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandoshi21&show_icons=true&locale=en&layout=compact&theme=outrun" alt="rohandoshi21">
 </div>
 </p>
 
