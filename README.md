@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
   
 
-
+## GitHub Stats
 <p align="center">
 <div>
 <img height = "180" src="https://github-readme-stats.vercel.app/api?username=rohandoshi21&show_icons=true&theme=outrun" alt="rohandoshi21">
