@@ -39,9 +39,8 @@
 ## GitHub Stats
 <p align="center">
 <div>
-<img height = "180" src="https://github-readme-stats.vercel.app/api?username=rohandoshi21&show_icons=true&theme=outrun" alt="rohandoshi21">
-<img height = "180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandoshi21&show_icons=true&locale=en&layout=compact&theme=outrun" alt="rohandoshi21">
+<img height = "180" width = "500" src="https://github-readme-stats.vercel.app/api?username=rohandoshi21&show_icons=true&theme=outrun" alt="rohandoshi21">
+<img height = "180" width = "500" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandoshi21&show_icons=true&locale=en&layout=compact&theme=outrun" alt="rohandoshi21">
+<img height = "180" width = "500" src="http://github-readme-streak-stats.herokuapp.com?user=RohanDoshi21&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="rohandoshi21" />
 </div>
 </p>
-
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RohanDoshi21&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="rohandoshi21" /></p>
