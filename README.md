@@ -60,7 +60,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
   
 ### Contributions:
-![snake gif](https://github.com/RohanDoshi21/RohanDoshi21/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/RohanDoshi21/RohanDoshi21/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/RohanDoshi21/RohanDoshi21/blob/output/github-snake-dark.svg#gh-dark-mode-only)
   
 
 ## GitHub Stats
